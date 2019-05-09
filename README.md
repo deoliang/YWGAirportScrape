@@ -17,7 +17,7 @@ node scrape.js
 ```
 
 # Data Source
-[Winnipeg James Armstrong Richardson International Airport](https://www.waa.ca/flights/departures/)
+[Winnipeg James Armstrong Richardson International Airport Departures](https://www.waa.ca/flights/departures/)
 
 # Reference
 [Cheerio Documentation](https://cheerio.js.org/)
